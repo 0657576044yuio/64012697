@@ -6,6 +6,7 @@ const App = () => {
     <div>
       <h1>Napaporn</h1>
       <p>Bannakorn</p>
+      <p>64012697</p>
     </div>
   );
 };
